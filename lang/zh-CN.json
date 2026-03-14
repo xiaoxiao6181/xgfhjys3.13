@@ -93,8 +93,8 @@
   },
   "mine": {
     "title": "我的",
-    "recharge": "充值",
-    "withdraw": "提现",
+    "recharge": "存入",
+    "withdraw": "存出",
     "customerService": "客服",
     "withdrawRecord": "提现记录",
     "rechargeRecord": "充值记录",
